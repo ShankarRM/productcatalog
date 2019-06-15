@@ -1,0 +1,3 @@
+F:\Projects\ProductCatalog\ProductCatalog\obj\Debug\netcoreapp2.2\ProductCatalog.csproj.CoreCompileInputs.cache
+F:\Projects\ProductCatalog\ProductCatalog\obj\Debug\netcoreapp2.2\ProductCatalog.AssemblyInfoInputs.cache
+F:\Projects\ProductCatalog\ProductCatalog\obj\Debug\netcoreapp2.2\ProductCatalog.AssemblyInfo.cs
